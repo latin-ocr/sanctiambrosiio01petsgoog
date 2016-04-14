@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiambrosiio01petsgoog_0049.png"; bbox 0 0 3784 5467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 2343 1444 2472">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 529 2343 1444 2472">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 2343 1444 2472; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 529 2343 959 2472; x_wconf 85' lang='lat' dir='ltr'>EXPOSITIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1005 2343 1444 2471; x_wconf 80' lang='lat' dir='ltr'><strong>EVANGELH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 745 2613 1235 2697">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 745 2613 1235 2697">
+     <span class='ocr_line' id='line_1_2' title="bbox 745 2613 1235 2697; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 745 2613 1027 2697; x_wconf 86' lang='lat' dir='ltr'>SECVNDVM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1054 2614 1235 2697; x_wconf 81' lang='lat' dir='ltr'><strong>LVCAN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1896 5467">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1896 5467">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1896 5467; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1896 5467; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

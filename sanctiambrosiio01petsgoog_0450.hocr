@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiambrosiio01petsgoog_0450.png"; bbox 0 0 3784 5467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 948 4342 2567 4611">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1053 4342 2567 4611">
+     <span class='ocr_line' id='line_1_1' title="bbox 1228 4342 2567 4503; baseline -0.002 -13.905"><span class='ocrx_word' id='word_1_1' title='bbox 1228 4368 1420 4489; x_wconf 53' lang='grc' dir='ltr'>Γῑ-»ιέ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1367 4348 1756 4484; x_wconf 43' lang='lat'>1⁸02*</span> <span class='ocrx_word' id='word_1_3' title='bbox 1774 4342 2567 4503; x_wconf 50' lang='lat' dir='ltr'>&amp;ruffina-gu</span> <span class='ocrx_word' id='word_1_4' title='bbox 2475 4354 2484 4359; x_wconf 28' lang='grc'><strong>”</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 948 4497 2555 4611; baseline 0.004 -40.368"><span class='ocrx_word' id='word_1_5' title='bbox 948 4501 1564 4611; x_wconf 55' lang='grc' dir='ltr'>ξηωῆῌ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1659 4497 2555 4586; x_wconf 53' lang='lat' dir='ltr'>&amp;mammaea-xta?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 3780 5460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 3780 5460">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 3780 5460; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 3780 5460; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
